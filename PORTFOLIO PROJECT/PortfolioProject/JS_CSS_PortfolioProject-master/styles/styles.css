@@ -961,4 +961,17 @@ section {
   }
 }
 
+#submitBtn {
+  background-color: rgb(8, 8, 8); /* Set background color to black */
+  color: white; /* Set text color to white */
+  border: 2px solid #27AE60;; /* Remove border */
+  padding: 10px 20px; /* Add padding for better visual */
+  font-size: 16px; /* Set font size */
+  cursor: pointer; /* Change cursor on hover */
+  border-radius: 5px; /* Add border-radius for rounded corners */
+}
+#submitBtn:hover {
+  background-color: #333; /* Darken background color on hover */
+}
+
 /*# sourceMappingURL=styles.css.map */
