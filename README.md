@@ -54,21 +54,3 @@ cd portfolio-website
 
 
 
-## Images
-
-![Image](https://github.com/user-attachments/assets/24b9f091-4068-4b88-a1ee-4ada52aaaf19)
-
-
-![Image](https://github.com/user-attachments/assets/82fda454-3626-4e55-8325-cbf757e1058d)
-
-
-![Image](https://github.com/user-attachments/assets/f293285d-6734-45fb-b69e-3f651014d6b2)
-
-
-![Image](https://github.com/user-attachments/assets/ff902017-cb8e-4335-8f8f-5f32f618c64b)
-
-
-![Image](https://github.com/user-attachments/assets/80099a51-b9e3-4a5f-a52a-dab6ae53d10e)
-
-
-![Image](https://github.com/user-attachments/assets/4baaeb66-9c51-4327-bea2-146f7a5fc8c0)
