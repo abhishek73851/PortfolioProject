@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/24b9f091-4068-4b88-a1ee-4ada52aaaf19)
-
 
 # Portfolio Website
 
@@ -45,6 +43,9 @@ Toggle between light and dark themes using the theme button located at the botto
 - JavaScript
 - Font Awesome icons
 - Google Fonts
+
+## Images
+
 
 ## Setup
 
